@@ -10,3 +10,6 @@ Using those points and the path width, determine which terrain pixels should get
 Input:
 Initialise input from the terminal. 
 You can choose to input all the data manually or to enter absolute path to an input file containing the data.
+
+Output:
+Results will be printed to terminal and you also have to enter a path to valid file or directory to write the results into.
